@@ -1,4 +1,3 @@
-import React from "react";
 import statS from "../assets/illustration-editor-mobile.svg";
 import statL from "../assets/illustration-editor-desktop.svg";
 import phone from '../assets/illustration-phones.svg';
